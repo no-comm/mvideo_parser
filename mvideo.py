@@ -68,9 +68,3 @@ class find:
             list.append(i['price']['salePrice'])
         
         return list
-
-
-
-        
-if __name__ == "__main__":
-    print(find.name("dyson"))
