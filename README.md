@@ -4,5 +4,5 @@ parser for mvideo
 ```python
 from mvideo import find
 print(find.name("dyson"))
-# will return a three-syllable list
+# will return a two-dimensional list
 ```
